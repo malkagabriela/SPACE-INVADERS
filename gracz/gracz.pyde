@@ -5,5 +5,12 @@ class Gracz:
         self.wyglad  = skorka
         self.życia = 5
     def pozycja():
-        pozycja.zmien 
+        pozycja.zmien()
+    def rozmiar():
+        rozmiar.zmien
+    def zycia():
+        if Gracz.pozycja = pocisk.pozycja:
+            self.zycia -=1
+            
+         
     
