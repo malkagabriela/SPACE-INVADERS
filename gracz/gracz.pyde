@@ -1,8 +1,8 @@
 class Gracz:
     def __init__(self, wyglad, rozmiar, skorka):
-        self.pozycja = 
+        self.pozycja = x,y 
         self.rozmiar = 
-        self.wyglad  = skorka
+        self.wyglad = skorka
         self.życia = 5
     def pozycja():
         pozycja.zmien()
@@ -11,6 +11,10 @@ class Gracz:
     def zycia():
         if Gracz.pozycja = pocisk.pozycja:
             self.zycia -=1
-            
+    def pozycja():
+        while strzalka_lewo.pressed:
+            self.pozycja = (x-1, y)
+        while stralka_prawo.pressed:
+            self.pozycja = (x+1, y)
          
     
